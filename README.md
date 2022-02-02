@@ -1,6 +1,7 @@
 # Election_Analysis
-**
-Project Overview**
+
+Project Overview
+
 A Colorado Board of Ellections employee has given us the task to complete the elections audit of a recent local Congressional election.
 
 Calculate the total number of votes cast.
@@ -8,10 +9,6 @@ Get a complete list of candidates who received votes.
 Calculate the total number of voteseach candidate received.
 calculate the percentage of votes each candidate won.
 Determine the winner of the elction based on popular vote.
-Resources
-Data Source: election_results.csv
-Software: Python 3.7, Visual Studio Code 1.59.1
-
 
 **
 Election-Audit Results**
@@ -44,5 +41,3 @@ The output in the text file looks like this:
 **
 Election-Audit Summary**
 The code that was used for this analysis can be easily modified and used for any other elections. For example, if data contained gender information of voters, the code could be extended to see the breakdown of voters for each candidate or county. The same could be done if data set contained occupation information of voters. All this could be used to determine the target audience for candidates.
-
-The script could also be used to make a deeper analysis of the current data set. For example, it could be modified to determine which candidate was more popular in which county.

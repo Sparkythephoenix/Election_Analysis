@@ -4,6 +4,7 @@ Project Overview
 
 A Colorado Board of Ellections employee has given us the task to complete the elections audit of a recent local Congressional election.
 
+Deliverables :
 Calculate the total number of votes cast.
 Get a complete list of candidates who received votes.
 Calculate the total number of voteseach candidate received.
@@ -22,6 +23,7 @@ The votes in Jefferson county made 10.5% and 38855 votes of the total number of 
 The votes in Denver county made 82.8% and 306055 votes of the total number of votes
 The votes in Arapahoe county made 6.7% and 24801 votes of the total number of votes
 The county with the largest turnover was Denver
+
 
 The candidates were:
 Charles Casper Stockham
